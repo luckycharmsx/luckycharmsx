@@ -14,6 +14,7 @@ If you're aiming to start your journey as a software engineer and aspire to beco
 
 ## 🔮 Algorithms and Data structures
 - [Leetcode](https://leetcode.com/)
+- [Project Euler](https://projecteuler.net/)
 
 ## 📖 Books
 - [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
